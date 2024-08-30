@@ -1,5 +1,7 @@
 # RAG with Azure AI Studio and Promptflow
 
+> Note: This repo was auto-provisioned to support Exercise # 5 of TechExcel course: https://microsoft.github.io/TechExcel-Operationalize-LLMs-with-LLMOps-automation
+
 This repository has been initialized with the RAG with Azure AI Studio and Promptflow project template repository, which has been thoughtfully crafted with a template for Retrieval Augmented Generation using Promptflow. This template is designed to help you get started quickly and efficiently. The template project is a simplified version of the [Contoso Chat](https://github.com/Azure-Samples/contoso-chat/) sample project. 
 
 ## Architecture Overview
